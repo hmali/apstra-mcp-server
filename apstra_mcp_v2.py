@@ -1,8 +1,8 @@
 from fastmcp import FastMCP
 import httpx, sys
 
-# Create an MCP server
-mcp = FastMCP("Apstra MCP server")
+# Create an MCP server 
+mcp = FastMCP("Apstra MCP server version 5.1.0")
 
 # IP of Cloudlabs AOS Server
 aos_server = 'apstra-05d6fe43-3883-46ee-a769-39c730fa6cba.aws.apstra.com'
