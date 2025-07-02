@@ -5,9 +5,9 @@ import httpx, sys
 mcp = FastMCP("Apstra MCP server")
 
 # IP of Cloudlabs AOS Server
-aos_server = 'Apstra server IP/Name'
-username = 'Apstra username'
-password = 'Apstra password'
+aos_server = 'apstra-05d6fe43-3883-46ee-a769-39c730fa6cba.aws.apstra.com'
+username = 'admin'
+password = 'InventiveBonobo3#'
 
 # The authentication function
 def auth():
